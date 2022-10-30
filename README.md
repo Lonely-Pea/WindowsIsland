@@ -9,7 +9,7 @@ But it will be easy to read in later versions because it will format my Python c
 
 # Video introduction
 There are some corresponding introduction videos on Bilibili, click below:  
-[测试版本视频](https://www.bilibili.com/video/BV1Ne41157y4/ "测试版本视频")  
+[Version Text Video](https://www.bilibili.com/video/BV1Ne41157y4/ "Version Text Video")  
   
 # Acknowledgement
 Programmer: Lonely-Pea  
