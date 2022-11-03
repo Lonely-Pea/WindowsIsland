@@ -1,4 +1,4 @@
-# WindowsInland
+# WindowsIsland
 This project allows you to use Flexi Island programs made with Python tkinter modules on Windows and implement basic functionality.  
 The project is still being updated and is already in beta.  
 You can use QQ1625396311 to obtain the unfinished version of v1.0. We will write your name on README.md file.
@@ -10,6 +10,16 @@ But it will be easy to read in later versions because it will format my Python c
 # Video introduction
 There are some corresponding introduction videos on Bilibili, click below:  
 [Version Text Video](https://www.bilibili.com/video/BV1Ne41157y4/ "Version Text Video")  
-  
+
 # Acknowledgement
 Programmer: Lonely-Pea  
+
+# About `main_tb.py`
+
+Modified from `mian.py`, 2022 by rgzz666.
+
+if u run this, everything in the window will be displayed in the middle on your taskbar.
+
+I made this because i sent a comment in the intro video...
+
+My website: rgzz.great-site.net (NO HTTPS!!)
